@@ -1,4 +1,4 @@
-- Hi, I’m @ananya-ayasi
+- Hi, I’m [@ananya-ayasi](https://github.com/ananya-ayasi)
 - I’m interested in technology and tech policy.
 - I’m currently learning quantum tech and deep learning.
 - I’m looking to collaborate on QC, DL and IoT.
