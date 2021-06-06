@@ -1,5 +1,6 @@
-- Hi, I’m [@ananya-ayasi](https://github.com/ananya-ayasi)
+- Hi, I’m [@ananya-ayasi](https://www.linkedin.com/in/ananya-ayasi-0b654a166/)
 - I’m interested in technology and tech policy.
+- I will be giving a talk on quantum technology and its on impact on society for WTGC'21. [Check it out!](https://www.womentech.net/speaker/Ananya/Ayasi/58004)
 - I’m currently learning quantum tech and deep learning.
 - I’m looking to collaborate on QC, DL and IoT.
 - Here's a picture of me a [friend](https://www.linkedin.com/in/ananda-narayan-a-/) drew:
